@@ -39,9 +39,9 @@ then I define the classes into a set in Python to gurantee that there are no dup
 
 ----------------------------------------------------------------------------------------------
 
-VISUALIZATION IMAGES
+BUILDING THE CNN MODEL
 
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
