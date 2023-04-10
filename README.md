@@ -41,7 +41,10 @@ then I define the classes into a set in Python to gurantee that there are no dup
 
 BUILDING THE CNN MODEL
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](file:///C:/Users/Prashant%20Bahuguna/Downloads/1_c2ubkAfmplp3r7hTz-mk5A.webp)
+
+
+![image](https://user-images.githubusercontent.com/54200145/231018322-9b9e01fe-f4e8-44da-989c-e8fa6bae547c.png)
+
 
 
 
