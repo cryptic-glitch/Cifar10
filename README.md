@@ -14,6 +14,7 @@ Learning via Trial and Error
  Normalize(mean, std) the number of parameters we pass into the mean and std arguments
  depends upon the type of image, her we have RGB channels so 3.
  What does 0.5 signify ?
+ 
 ------------------------------------------------------------------------------------------
  What is the use of num_workers ?
  when the value of num_workers >0 then it allows Pytorch to switch to perform multi-process data loading
